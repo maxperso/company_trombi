@@ -4,6 +4,15 @@
 
 The Company Directory Application is a versatile and user-friendly solution designed to enhance workplace communication and collaboration within your organization. It provides a central hub for employees to access essential information, updates, and resources efficiently. With integrated widgets and a real-time chat feature, this application fosters seamless communication and teamwork, making it an invaluable tool for your company.
 
+## Screenshots
+
+<div align="center">
+  <img src="readme/login.PNG" width="200" alt="Image 1">
+  <img src="1.PNG" width="200" alt="Image 2">
+  <img src="2.PNG" width="200" alt="Image 3">
+  <img src="3.PNG" width="200" alt="Image 4">
+</div>
+
 ## Features
 
 - **Widgets**: Access a rich collection of widgets that provide quick access to important company resources and updates.

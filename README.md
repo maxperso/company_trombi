@@ -8,9 +8,9 @@ The Company Directory Application is a versatile and user-friendly solution desi
 
 <div align="center">
   <img src="readme/login.PNG" width="200" alt="Image 1">
-  <img src="1.PNG" width="200" alt="Image 2">
-  <img src="2.PNG" width="200" alt="Image 3">
-  <img src="3.PNG" width="200" alt="Image 4">
+  <img src="readme/1.PNG" width="200" alt="Image 2">
+  <img src="readme/2.PNG" width="200" alt="Image 3">
+  <img src="readme/3.PNG" width="200" alt="Image 4">
 </div>
 
 ## Features

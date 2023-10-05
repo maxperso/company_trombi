@@ -57,8 +57,3 @@ npm start
 ## Contributing
 
 We welcome contributions from the community! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```

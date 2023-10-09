@@ -6,7 +6,7 @@ export default function WeatherSquare({currentTheme, changeTheme}) {
     const [weatherData, setWeatherData] = useState(null);-
 
         useEffect(() => {
-            const apiKey = 'c0529a336a1a55ec83793ead5e421b87';
+            const apiKey = 'notakey';
             const lat = 45.75; // Latitude for Lyon, France
             const lon = 4.85;  // Longitude for Lyon, France
             const apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apiKey}&units=metric`;
